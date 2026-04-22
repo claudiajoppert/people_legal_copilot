@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+data/warehouse.db
+.env
+.venv/
+.DS_Store
