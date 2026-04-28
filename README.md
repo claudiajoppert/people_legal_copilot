@@ -2,9 +2,9 @@
 
 A conversational analytics interface built with **Streamlit** and designed
 around **Snowflake Cortex COMPLETE**. Stakeholders in Talent Acquisition and
-Legal Operations can ask natural-language questions — *"What is the attrition
+Legal Operations can ask natural-language questions: *"What is the attrition
 risk in the Engineering department?"*, *"Show me legal spend by outside
-counsel this quarter"* — and get back narrative answers, charts, and the
+counsel this quarter"*, and get back narrative answers, charts, and the
 underlying data in one chat turn.
 
 The Cortex integration is **shaped like the real Snowflake API** but runs
